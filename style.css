@@ -1583,3 +1583,8 @@ h2.session-speakers,h2.speaker-sessions {
 .googlemaps iframe {
 	width: 100%;
 }
+
+.entry-meta .comments-link,
+.entry-meta .meta-sep-bull {
+	display: none;
+}
