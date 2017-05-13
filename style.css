@@ -1579,3 +1579,7 @@ h2.session-speakers,h2.speaker-sessions {
 .tix-column-quantity:before {
 	content: 'Quantity';
 }
+
+.googlemaps iframe {
+	width: 100%;
+}
