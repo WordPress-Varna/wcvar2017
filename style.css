@@ -279,7 +279,7 @@ body.blog #content-row-wrapper .sidebar-row #container,body.single-post #content
 
 @media screen and (min-width: 992px) {
 	body.blog #content-row-wrapper .sidebar-row #container,body.single-post #content-row-wrapper .sidebar-row #container {
-		width: 73.52941%;
+		width: 68.52941%;
 		float: left;
 		margin-right: 5.88235%;
 		margin-left: 0;
@@ -300,7 +300,7 @@ body.blog #content-row-wrapper .sidebar-row .widget-area,body.single-post #conte
 
 @media screen and (min-width: 992px) {
 	body.blog #content-row-wrapper .sidebar-row .widget-area,body.single-post #content-row-wrapper .sidebar-row .widget-area {
-		width: 20.58824%;
+		width: 25.58824%;
 		float: right;
 		margin-right: 0;
 	}
@@ -803,7 +803,7 @@ input:focus,textarea:focus,select:focus {
 }
 
 #main-menu .search-form {
-	width: 20.58824%;
+	width: 25.58824%;
 	float: right;
 	margin-right: 0;
 }
