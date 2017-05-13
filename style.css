@@ -668,10 +668,10 @@ input:focus,textarea:focus,select:focus {
 #site-description:before {
 	content: '';
 	display: block;
-	width: 158px;
+	width: 181px;
 	height: 220px;
 	margin: 0 auto .5em;
-	background-image: url('https://2017.varna.wordcamp.org/files/2017/05/logo.png');
+	background-image: url('https://2017.varna.wordcamp.org/files/2017/05/logo-vertical.png');
 	background-size: cover;
 }
 
@@ -683,9 +683,9 @@ input:focus,textarea:focus,select:focus {
 
 @media screen and (min-width: 520px) {
 	body.home #site-description:before {
-		width: 315px;
-		height: 450px;
-		margin: 0 auto 1.5em;
+		width: 380px;
+		height: 462px;
+		margin: 1em auto;
 	}
 }
 
