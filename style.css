@@ -50,7 +50,7 @@ p {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	color: #e14a25;
+	color: #f79322;
 	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
 	font-weight: bold;
 }
@@ -117,14 +117,14 @@ body.admin-bar #main-menu-wrapper {
 }
 
 a {
-	color: #e14a25;
+	color: #f79322;
 	text-decoration: none;
-	border-bottom: 1px solid #f4baab;
+	border-bottom: 1px solid #fddbb6;
 }
 
 a:hover,a:focus {
-	color: #b9391a;
-	border-bottom: 1px solid #e14a25;
+	color: #e98008;
+	border-bottom: 1px solid #f79322;
 }
 
 img {
@@ -169,12 +169,12 @@ img {
 
 .button--orange,.button--orange--small,#after-content .jetpack_subscription_widget input[type="submit"],input[type="submit"],#main-menu .featured-button,#commentform input[type="submit"] {
 	color: #fff;
-	background: #e56040;
+	background: #f79322;
 }
 
 .button--orange:hover,.button--orange--small:hover,#after-content .jetpack_subscription_widget input[type="submit"]:hover,input[type="submit"]:hover,#main-menu .featured-button:hover,#commentform input[type="submit"]:hover {
 	color: #fff;
-	background: #d5411d;
+	background: #e98008;
 }
 
 .button--blue,.button--blue--small {
@@ -627,7 +627,7 @@ input:focus,textarea:focus,select:focus {
 	background: #10759b url('https://2017.varna.wordcamp.org/files/2017/05/DSC_0426.jpg');
 	background-position: center;
 	background-size: cover !important;
-	border-bottom: 5px solid #e14a25;
+	border-bottom: 5px solid #f79322;
 }
 
 #header-container #header {
@@ -789,7 +789,7 @@ input:focus,textarea:focus,select:focus {
 #main-menu ul li .sub-menu li {
 	display: block;
 	white-space: pre;
-	border-top: 1px solid #e14a25;
+	border-top: 1px solid #f79322;
 }
 
 #main-menu ul li .sub-menu li:hover {
@@ -1153,7 +1153,7 @@ blockquote:before {
 	color: #fff;
 	font: 1em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
 	background-color: #2d86a7;
-	border-top: 5px solid #e14a25;
+	border-top: 5px solid #f79322;
 }
 
 @media screen and (min-width: 520px) {
@@ -1175,7 +1175,7 @@ blockquote:before {
 }
 
 #before-footer-wrapper a:hover,#before-footer-wrapper a:focus {
-	border-bottom-color: #e56040;
+	border-bottom-color: #f79322;
 }
 
 #before-footer-wrapper .xoxo>li {
@@ -1194,7 +1194,7 @@ blockquote:before {
 #footer-wrapper {
 	font: .72em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
 	text-align: center;
-	background: #e56040;
+	background: #f79322;
 }
 
 #footer-wrapper a {
@@ -1260,8 +1260,8 @@ blockquote:before {
 
 #tix-attendees .tix-field.tix-attendee-twitter,#tix-attendees .tix-field.tix-attendee-url {
 	text-decoration: underline;
-	-webkit-text-decoration-color: #f4baab;
-	text-decoration-color: #f4baab;
+	-webkit-text-decoration-color: #fddbb6;
+	text-decoration-color: #fddbb6;
 	border: 0;
 }
 
