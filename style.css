@@ -160,7 +160,7 @@ img {
 
 #after-header-wrapper .widget_search input[type="submit"] {
 	color: #787878;
-	background: #e3f4f6;
+	background: #f1f9fa;
 }
 
 #after-header-wrapper .widget_search input[type="submit"]:hover {
@@ -392,7 +392,7 @@ input:focus,textarea:focus,select:focus {
 	font-style: italic;
 	letter-spacing: .05em;
 	text-transform: none;
-	border: 2px solid #e3f4f6;
+	border: 2px solid #f1f9fa;
 	vertical-align: middle;
 }
 
@@ -446,7 +446,7 @@ input:focus,textarea:focus,select:focus {
 }
 
 .before-content .xoxo li:nth-child(even) {
-	background-color: #e3f4f6;
+	background-color: #f1f9fa;
 }
 
 @media screen and (min-width: 992px) {
@@ -479,7 +479,7 @@ input:focus,textarea:focus,select:focus {
 
 #after-content .xoxo li {
 	margin: 1em;
-	background-color: #e3f4f6;
+	background-color: #f1f9fa;
 }
 
 @media screen and (min-width: 768px) {
@@ -1025,7 +1025,7 @@ blockquote:before {
 .commentlist .comment {
 	margin: .8em 0 3em;
 	padding: 1.5em;
-	background-color: #e3f4f6;
+	background-color: #f1f9fa;
 }
 
 .commentlist .children {
