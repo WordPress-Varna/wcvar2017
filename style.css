@@ -442,7 +442,7 @@ input:focus,textarea:focus,select:focus {
 }
 
 .before-content .xoxo li:nth-child(odd) {
-	background-color: #c3dce6;
+	background-color: #c6e8ec;
 }
 
 .before-content .xoxo li:nth-child(even) {
@@ -899,7 +899,7 @@ article.page p {
 }
 
 #nav-above a:hover,#nav-above a:focus,#nav-below a:hover,#nav-below a:focus {
-	background-color: #c3dce6;
+	background-color: #c6e8ec;
 }
 
 #nav-above .nav-previous,#nav-below .nav-previous {
@@ -1244,7 +1244,7 @@ blockquote:before {
 	width: 96px !important;
 	height: 96px !important;
 	margin: 0 auto .5em;
-	border: 2px solid #c3dce6;
+	border: 2px solid #c6e8ec;
 	border-radius: 50%;
 	pointer-events: none;
 }
@@ -1480,7 +1480,7 @@ h2.session-speakers,h2.speaker-sessions {
 }
 
 .speaker-gravatar-list .avatar {
-	border: 2px solid #c3dce6;
+	border: 2px solid #c6e8ec;
 	border-radius: 50%;
 }
 
@@ -1505,7 +1505,7 @@ h2.session-speakers,h2.speaker-sessions {
 .wcorg-organizer-description .avatar-default,.wcorg-organizer-description .avatar,.type-wcb_speaker .avatar-default,.type-wcb_speaker .avatar,.wcorg-speaker-description .avatar-default,.wcorg-speaker-description .avatar {
 	float: left;
 	margin: .4em 1em 1em 0;
-	border: 2px solid #c3dce6;
+	border: 2px solid #c6e8ec;
 	border-radius: 50%;
 	pointer-events: none;
 }
