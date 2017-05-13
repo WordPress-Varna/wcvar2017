@@ -1314,7 +1314,7 @@ blockquote:before {
 
 @media screen and (min-width: 768px) {
 	.wcpt-schedule,.tix_tickets_table {
-		width: auto;
+		width: 100%;
 	}
 }
 
