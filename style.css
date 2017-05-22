@@ -1588,3 +1588,7 @@ h2.session-speakers,h2.speaker-sessions {
 .entry-meta .meta-sep-bull {
 	display: none;
 }
+
+#branding > img {
+	display: none;
+}
