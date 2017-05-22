@@ -1676,4 +1676,9 @@ h2.session-speakers,h2.speaker-sessions {
 		font-size: 80%;
 		background: transparent;
 	}
+
+	.admin-bar #main-menu,
+	.admin-bar #main-menu .menu-toggle {
+		top: 46px;
+	}
 }
