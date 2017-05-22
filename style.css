@@ -51,7 +51,7 @@ p {
 
 h1,h2,h3,h4,h5,h6 {
 	color: #f79322;
-	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-weight: bold;
 }
 
@@ -93,7 +93,7 @@ strong {
 
 body {
 	color: #464342;
-	font: 16px "Lora", "Georgia", sans-serif;
+	font: 16px "Roboto", "Helvetica", "Arial", sans-serif;
 	line-height: 2;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
