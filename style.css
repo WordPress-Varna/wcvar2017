@@ -1596,3 +1596,84 @@ h2.session-speakers,h2.speaker-sessions {
 #before-content-wrapper {
 	display: none;
 }
+
+@media screen and (max-width: 767px) {
+	#main-menu {
+		position: absolute;
+		top: 0;
+		left: 0;
+		width: 100%;
+	}
+
+	#main-menu .menu-toggle {
+		display: inline-block;
+		float: right;
+		margin-right: 7px;
+		margin-top: 7px;
+		font-size: 0;
+		line-height: 0;
+		text-indent: -9999px;
+		position: relative;
+		cursor: pointer;
+		width: 30px;
+		height: 30px;
+		z-index: 20;
+	}
+
+	#main-menu .menu-toggle:after {
+		content: "\f333";
+		width: 100%;
+		height: 100%;
+		position: absolute;
+		top: 0;
+		left: 0;
+		font-size: 30px;
+		line-height: 1;
+		text-indent: 0;
+		font-family: 'dashicons';
+		color: #fff;
+	}
+
+	#menu-main-menu.menu {
+		display: none;
+		background: rgba(3, 71, 97, 0.95);
+		position: relative;
+		top: 43px;
+		z-index: 30;
+	}
+
+	#menu-main-menu.menu.toggled-on {
+		display: block;
+	}
+
+	#menu-main-menu.menu li,
+	#menu-main-menu.menu li > a {
+		display: block;
+		float: none;
+	}
+
+	#menu-main-menu.menu li,
+	#menu-main-menu.menu li .sub-menu li {
+		border-top: 1px solid rgba(255, 255, 255, 0.2);
+	}
+
+	#menu-main-menu.menu li .sub-menu li {
+		background: rgba(255, 255, 255, 0.1);
+	}
+
+	#menu-main-menu.menu li:hover,
+	#menu-main-menu.menu li .sub-menu li:hover {
+		background: transparent;
+	}
+
+	#menu-main-menu.menu li a:hover {
+		background: rgba(0, 0, 0, 0.2);
+	}
+
+	#menu-main-menu.menu li ul {
+		display: block;
+		position: static;
+		font-size: 80%;
+		background: transparent;
+	}
+}
