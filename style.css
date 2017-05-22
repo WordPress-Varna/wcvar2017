@@ -1636,7 +1636,7 @@ h2.session-speakers,h2.speaker-sessions {
 
 	#menu-main-menu.menu {
 		display: none;
-		background: rgba(3, 71, 97, 0.95);
+		background: rgba(3, 71, 97, 1);
 		position: relative;
 		top: 43px;
 		z-index: 30;
