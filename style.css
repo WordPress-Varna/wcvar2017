@@ -1592,3 +1592,7 @@ h2.session-speakers,h2.speaker-sessions {
 #branding > img {
 	display: none;
 }
+
+#before-content-wrapper {
+	display: none;
+}
