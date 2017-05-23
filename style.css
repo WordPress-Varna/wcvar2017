@@ -1597,6 +1597,14 @@ h2.session-speakers,h2.speaker-sessions {
 	display: none;
 }
 
+.tix-column-description {
+	line-height: 1.2;
+}
+
+.tix-ticket-excerpt {
+	font-size: 16px;
+}
+
 @media screen and (max-width: 767px) {
 	#main-menu {
 		position: absolute;
