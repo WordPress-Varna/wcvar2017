@@ -1603,6 +1603,7 @@ h2.session-speakers,h2.speaker-sessions {
 
 .tix-ticket-excerpt {
 	font-size: 16px;
+	white-space: pre-line;
 }
 
 @media screen and (max-width: 767px) {
