@@ -144,7 +144,7 @@ img {
 	position: relative;
 	display: inline-block;
 	padding: .3em .8em;
-	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	border: 0;
 	border-radius: 6px;
 }
@@ -511,7 +511,7 @@ input:focus,textarea:focus,select:focus {
 }
 
 #after-content .xoxo li .textwidget {
-	font: 1em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: 1em/2 "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
 @media screen and (min-width: 520px) {
@@ -537,7 +537,7 @@ input:focus,textarea:focus,select:focus {
 }
 
 #after-content .jetpack_subscription_widget p {
-	font: 1em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: 1em/2 "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
 @media screen and (min-width: 520px) {
@@ -597,7 +597,7 @@ input:focus,textarea:focus,select:focus {
 }
 
 #content-row-1 {
-	font: 1em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: 1em/2 "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
 @media screen and (min-width: 520px) {
@@ -654,7 +654,7 @@ input:focus,textarea:focus,select:focus {
 
 #site-description {
 	color: #fff;
-	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-size: 1em;
 	letter-spacing: .11em;
 }
@@ -709,7 +709,7 @@ input:focus,textarea:focus,select:focus {
 	max-width: 1180px;
 	margin-left: auto;
 	margin-right: auto;
-	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-size: .88em;
 	letter-spacing: .07em;
 	text-transform: uppercase;
@@ -855,7 +855,7 @@ article.page p {
 }
 
 .entry-meta,.entry-utility {
-	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-size: .89em;
 }
 
@@ -878,7 +878,7 @@ article.page p {
 }
 
 #nav-above,#nav-below {
-	font: .64em "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: .64em "Roboto", "Helvetica", "Arial", sans-serif;
 	letter-spacing: .07em;
 	text-transform: uppercase;
 }
@@ -983,7 +983,7 @@ blockquote:before {
 }
 
 .wp-caption-text {
-	font: .72em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: .72em/2 "Roboto", "Helvetica", "Arial", sans-serif;
 	text-align: center;
 }
 
@@ -1013,7 +1013,7 @@ blockquote:before {
 }
 
 .commentlist {
-	font: 1em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: 1em/2 "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
 @media screen and (min-width: 520px) {
@@ -1114,12 +1114,12 @@ blockquote:before {
 }
 
 .comment-notes {
-	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-size: .72em;
 }
 
 .form-allowed-tags {
-	font-family: "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 	font-size: .89em;
 }
 
@@ -1151,7 +1151,7 @@ blockquote:before {
 #before-footer-wrapper {
 	padding: 1em;
 	color: #fff;
-	font: 1em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: 1em/2 "Roboto", "Helvetica", "Arial", sans-serif;
 	background-color: #2d86a7;
 	border-top: 5px solid #f79322;
 }
@@ -1192,7 +1192,7 @@ blockquote:before {
 }
 
 #footer-wrapper {
-	font: .72em/2 "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: .72em/2 "Roboto", "Helvetica", "Arial", sans-serif;
 	text-align: center;
 	background: #f79322;
 }
@@ -1271,7 +1271,7 @@ blockquote:before {
 }
 
 .wcpt-schedule thead,.tix_tickets_table thead,.wcpt-schedule .wcpt-time,.tix_tickets_table .wcpt-time {
-	font: bold .72em "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: bold .72em "Roboto", "Helvetica", "Arial", sans-serif;
 	letter-spacing: .07em;
 	text-transform: uppercase;
 }
@@ -1280,7 +1280,7 @@ blockquote:before {
 	display: block;
 	margin: 0 0 .5em;
 	color: #10759b;
-	font: normal .88em "Source Sans Pro", "Helvetica", "Arial", sans-serif;
+	font: normal .88em "Roboto", "Helvetica", "Arial", sans-serif;
 }
 
 @media screen and (min-width: 768px) {
