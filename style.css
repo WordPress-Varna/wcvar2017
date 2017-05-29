@@ -947,6 +947,10 @@ blockquote:before {
 	}
 }
 
+.wp-caption {
+	max-width: 100%;
+}
+
 .wp-caption a {
 	border: 0;
 }
