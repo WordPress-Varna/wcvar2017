@@ -101,6 +101,7 @@ body {
 	line-height: 2;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
+	background: rgba(220, 220, 220, 0.1);
 }
 
 @media screen and (min-width: 520px) {
