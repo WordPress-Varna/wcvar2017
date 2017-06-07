@@ -91,13 +91,16 @@ strong {
 	box-sizing: border-box;
 }
 
+html {
+	background-image: url('https://2017.varna.wordcamp.org/files/2017/05/triangle-bg.png');
+}
+
 body {
 	color: #464342;
 	font: 16px "Roboto", "Helvetica", "Arial", sans-serif;
 	line-height: 2;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
-	background-image: url('https://2017.varna.wordcamp.org/files/2017/05/triangle-bg.png');
 }
 
 @media screen and (min-width: 520px) {
