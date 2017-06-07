@@ -1,2 +1,2 @@
-# wcvar2017
-WordCamp Varna 2017 assets
+# WordCamp Varna 2017
+Assets and stylesheets for the WordCamp Varna 2017 website
