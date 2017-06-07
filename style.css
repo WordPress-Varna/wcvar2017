@@ -1361,7 +1361,7 @@ blockquote:before {
 }
 
 .wcpt-schedule tbody tr:nth-child(even),.tix_tickets_table tbody tr:nth-child(even) {
-	background-color: #f4f8fa;
+	background-color: #f1f9fa;
 }
 
 @media screen and (min-width: 768px) {
