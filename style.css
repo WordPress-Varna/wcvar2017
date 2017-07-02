@@ -1574,6 +1574,15 @@ h2.session-speakers,h2.speaker-sessions {
 	.tix_tickets_table {
 		border: 0;
 	}
+	
+	#before-footer-1 .xoxo > li {
+		width: 23%;
+		margin-right: 2.66666667%;
+	}
+	
+	#before-footer-1 .xoxo > li:first-child {
+		margin-right: 0;
+	}
 }
 
 .tix-column-price:before {
