@@ -1580,7 +1580,7 @@ h2.session-speakers,h2.speaker-sessions {
 		margin-right: 2.66666667%;
 	}
 	
-	#before-footer-1 .xoxo > li:first-child {
+	#before-footer-1 .xoxo > li:last-child {
 		margin-right: 0;
 	}
 }
