@@ -1623,6 +1623,10 @@ h2.session-speakers,h2.speaker-sessions {
 	font-size: 30px;
 }
 
+.widget_wpcom_social_media_icons_widget .genericon:hover {
+	opacity: 0.8;
+}
+
 .widget_recent_entries .post-date {
 	display: block;
 	font-style: italic;
