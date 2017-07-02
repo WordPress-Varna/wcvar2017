@@ -1623,6 +1623,12 @@ h2.session-speakers,h2.speaker-sessions {
 	font-size: 30px;
 }
 
+.widget_recent_entries .post-date {
+	display: block;
+	font-style: italic;
+	font-size: 0.8em;
+}
+
 @media screen and (max-width: 767px) {
 	#main-menu {
 		position: absolute;
