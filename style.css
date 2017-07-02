@@ -1183,7 +1183,7 @@ blockquote:before {
 }
 
 #before-footer-wrapper a:hover,#before-footer-wrapper a:focus {
-	border-bottom-color: #f79322;
+	border-bottom: 0;
 }
 
 #before-footer-wrapper .xoxo>li {
