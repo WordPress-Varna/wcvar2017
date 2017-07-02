@@ -1575,12 +1575,12 @@ h2.session-speakers,h2.speaker-sessions {
 		border: 0;
 	}
 	
-	#before-footer-1 .xoxo > li {
+	#before-footer .xoxo > li {
 		width: 23%;
 		margin-right: 2.66666667%;
 	}
 	
-	#before-footer-1 .xoxo > li:last-child {
+	#before-footer .xoxo > li:last-child {
 		margin-right: 0;
 	}
 }
