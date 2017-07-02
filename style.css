@@ -1619,6 +1619,10 @@ h2.session-speakers,h2.speaker-sessions {
 	white-space: pre-line;
 }
 
+.widget_wpcom_social_media_icons_widget .genericon {
+	font-size: 30px;
+}
+
 @media screen and (max-width: 767px) {
 	#main-menu {
 		position: absolute;
