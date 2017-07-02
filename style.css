@@ -1177,6 +1177,11 @@ blockquote:before {
 	}
 }
 
+#before-footer .widget-area {
+	clear: both;
+	overflow: hidden;
+}
+
 #before-footer-wrapper a {
 	color: #fff;
 	border-bottom-color: #fff;
