@@ -695,7 +695,7 @@ input:focus,textarea:focus,select:focus {
 	body.home #site-description:before {
 		width: 380px;
 		height: 462px;
-		margin: 1em auto;
+		margin: 1em auto 0;
 	}
 }
 
