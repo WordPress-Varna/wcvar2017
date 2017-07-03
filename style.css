@@ -679,6 +679,11 @@ input:focus,textarea:focus,select:focus {
 	background-size: cover;
 }
 
+#site-description:after {
+	content: '2-3 September | #WCVAR';
+	font-size: 12px;
+}
+
 @media screen and (min-width: 520px) {
 	body.home #header-container {
 		height: 600px;
