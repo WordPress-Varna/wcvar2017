@@ -1639,6 +1639,11 @@ h2.session-speakers,h2.speaker-sessions {
 	margin-bottom: 0.5em;
 }
 
+.widget_googleplus_badge #___person_0,
+.widget_googleplus_badge #___person_0 iframe {
+	width: 100%;
+}
+
 @media screen and (max-width: 767px) {
 	#main-menu {
 		position: absolute;
