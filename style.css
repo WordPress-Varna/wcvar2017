@@ -674,7 +674,7 @@ input:focus,textarea:focus,select:focus {
 	display: block;
 	width: 181px;
 	height: 220px;
-	margin: 0 auto .5em;
+	margin: 0 auto;
 	background-image: url('https://2017.varna.wordcamp.org/files/2017/05/logo-vertical.png');
 	background-size: cover;
 }
