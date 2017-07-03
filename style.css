@@ -1726,4 +1726,8 @@ h2.session-speakers,h2.speaker-sessions {
 	.admin-bar #main-menu {
 		top: 46px;
 	}
+	
+	#before-content .widget_text .textwidget p {
+		text-align: center;
+	}
 }
