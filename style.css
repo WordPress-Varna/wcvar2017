@@ -696,6 +696,9 @@ input:focus,textarea:focus,select:focus {
 		width: 380px;
 		height: 462px;
 		margin: 1em auto 0;
+	}
+	
+	body.home #site-description:after {
 		font-size: 18px;
 	}
 }
