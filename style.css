@@ -681,7 +681,8 @@ input:focus,textarea:focus,select:focus {
 
 #site-description:after {
 	content: '2-3 September | #WCVAR';
-	font-size: 12px;
+	font-size: 18px;
+	text-transform: uppercase;
 }
 
 @media screen and (min-width: 520px) {
