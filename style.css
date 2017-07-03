@@ -681,7 +681,7 @@ input:focus,textarea:focus,select:focus {
 
 #site-description:after {
 	content: '2-3 September | #WCVAR';
-	font-size: 18px;
+	font-size: 14px;
 	text-transform: uppercase;
 }
 
@@ -696,6 +696,7 @@ input:focus,textarea:focus,select:focus {
 		width: 380px;
 		height: 462px;
 		margin: 1em auto 0;
+		font-size: 18px;
 	}
 }
 
