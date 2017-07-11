@@ -1653,6 +1653,21 @@ h2.session-speakers,h2.speaker-sessions {
 	text-align: center;
 }
 
+.tggr-media-item {
+	border-radius: 0;
+}
+
+.tggr-media-item .tggr-actions a span, 
+.tggr-media-item a,
+.tggr-media-item .tggr-actions a:hover span, 
+.tggr-media-item a:hover {
+	text-decoration: none;
+}
+
+.tggr-item-content {
+	font-size: 0.9em;
+}
+
 @media screen and (max-width: 767px) {
 	#main-menu {
 		position: absolute;
