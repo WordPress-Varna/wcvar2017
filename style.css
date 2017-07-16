@@ -1560,7 +1560,9 @@ h2.session-speakers,h2.speaker-sessions {
 	letter-spacing: .05em;
 }
 
-.wcorg-sponsors h2,.sponsor__title {
+.wcorg-sponsors h2,.sponsor__title,
+.wcorg-sponsor-level-microsponsor h2,
+.wcorg-sponsor-level-partners h2 {
 	margin: 1.2em 0 .3em;
 	font: bold italic 1.81em/1 "Roboto", "Helvetica", "Arial", sans-serif;
 }
@@ -1577,10 +1579,7 @@ h2.session-speakers,h2.speaker-sessions {
 	color: #D2691E;
 }
 
-.wcorg-sponsor,
-.wcorg-sponsors > div,
-.wcorg-sponsor-level-microsponsor,
-.wcorg-sponsor-level-partners {
+.wcorg-sponsor {
 	border-top: 2px solid #f79322;
 	margin-top: 30px;
 	padding-top: 30px;
