@@ -1577,7 +1577,10 @@ h2.session-speakers,h2.speaker-sessions {
 	color: #D2691E;
 }
 
-.wcorg-sponsor + .wcorg-sponsor {
+.wcorg-sponsor + .wcorg-sponsor,
+.wcorg-sponsors > div,
+.wcorg-sponsor-level-microsponsor,
+.wcorg-sponsor-level-partners {
 	border-top: 2px solid #f79322;
 	margin-top: 20px;
 	padding-top: 20px;
