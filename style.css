@@ -1679,6 +1679,10 @@ h2.session-speakers,h2.speaker-sessions {
 	font-size: 0.9em;
 }
 
+#before-footer-3 {
+	display: none;
+}
+
 @media screen and (max-width: 767px) {
 	#main-menu {
 		position: absolute;
