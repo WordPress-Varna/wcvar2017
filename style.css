@@ -1674,6 +1674,7 @@ h2.session-speakers,h2.speaker-sessions {
 .tggr-media-item .tggr-actions a:hover span, 
 .tggr-media-item a:hover {
 	text-decoration: none;
+	border-bottom: 0;
 }
 
 .tggr-item-content {
