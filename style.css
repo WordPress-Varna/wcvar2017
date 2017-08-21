@@ -13,6 +13,7 @@ article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section {
 
 body {
 	line-height: 1;
+	background: rgba(200, 200, 200, 0.1);
 }
 
 ol,ul {
